@@ -1,6 +1,4 @@
 # Adicion
 
 ##  Analisis
-
-
 ## Algoritmo
